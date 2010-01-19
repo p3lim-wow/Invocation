@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: p3lim
+## Version: Alpha
+## Title: Invocation
+## Notes: Spews messages for warlock rituals
+
+Invocation.lua
